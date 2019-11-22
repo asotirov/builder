@@ -1,0 +1,11 @@
+{
+  "name": "builder",
+  "version": "0.0.1",
+  "main": "Builder.js",
+  "plugin": true,
+  "dependencies": {
+    "architect": "^0.1.13",
+    "esprima": "^4.0.1",
+    "lodash": "^4.17.11"
+  }
+}
